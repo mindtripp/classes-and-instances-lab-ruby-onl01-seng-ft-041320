@@ -1,4 +1,6 @@
-def dog 
-dog.new = fields_ 
-
+class Dog
 end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
