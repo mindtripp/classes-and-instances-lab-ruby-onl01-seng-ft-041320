@@ -1,4 +1,4 @@
 class person
-adele_goldberg
-alan_kay
+adele_goldberg = person.new
+alan_kay = person.new
 end 
