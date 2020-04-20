@@ -1,4 +1,4 @@
 def dog 
-dog.new 
+dog.new = fields_ 
 
 end
